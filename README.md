@@ -1,5 +1,3 @@
-# resell_bros
-Football vibes online shop
 <!DOCTYPE html>
 <html lang="el">
 <head>
@@ -69,7 +67,7 @@ header {
 <div class="grid">
 
 <div class="card">
-<img src="https://via.placeholder.com/300x300">
+<img src="https://via.placeholder.com/300">
 <h3>Barcelona 2024</h3>
 <a class="button" href="https://instagram.com/TO_USERNAME_SOU" target="_blank">
 Order on Instagram
@@ -77,14 +75,5 @@ Order on Instagram
 </div>
 
 <div class="card">
-<img src="https://via.placeholder.com/300x300">
-<h3>Real Madrid 2024</h3>
-<a class="button" href="https://instagram.com/TO_USERNAME_SOU" target="_blank">
-Order on Instagram
-</a>
-</div>
-
-</div>
-
-</body>
-</html>
+<img src="https://via.placeholder.com/300">
+<h3>
